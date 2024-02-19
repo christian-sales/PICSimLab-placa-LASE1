@@ -1,0 +1,87 @@
+<img src="[board] (importada)" width="576" height="490" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR: Achilles Martins Silva -->
+<area shape="rect" coords="152,242,235,256" href="O_IC_CPU" />
+<area shape="rect" coords="14,139,72,149" href="I_SW_PWR" />
+<area shape="rect" coords="18,214,78,224" href="I_PG_ICSP" />
+<area shape="circle" coords="149,144,12" href="O_LD_LPWR" />
+<area shape="circle" coords="57,308,11" href="O_LD_LICSP" />
+<area shape="circle" coords="533,159,11" href="O_LD_RD0" />
+<area shape="circle" coords="505,159,11" href="O_LD_RD1" />
+<area shape="circle" coords="476,159,11" href="O_LD_RD2" />
+<area shape="circle" coords="447,159,11" href="O_LD_RD3" />
+<area shape="circle" coords="418,159,11" href="O_LD_RD4" />
+<area shape="circle" coords="389,159,11" href="O_LD_RD5" />
+<area shape="circle" coords="360,159,11" href="O_LD_RD6" />
+<area shape="circle" coords="332,159,11" href="O_LD_RD7" />
+<area shape="circle" coords="360,68,11" href="O_BC1" />
+<area shape="circle" coords="360,68,11" href="O_LD_R1" />
+<area shape="circle" coords="360,68,11" href="O_LD_G1" />
+<area shape="circle" coords="331,68,11" href="O_BC2" />
+<area shape="circle" coords="331,68,11" href="O_LD_R2" />
+<area shape="circle" coords="331,68,11" href="O_LD_G2" />
+<area shape="circle" coords="189,411,39" href="O_LD_LAMP" />
+<area shape="rect" coords="136,36,159,59" href="B_PB_INT0" />
+<area shape="rect" coords="174,36,196,59" href="B_PB_INT1" />
+<area shape="rect" coords="213,36,235,59" href="B_PB_INT2" />
+<area shape="rect" coords="136,76,159,99" href="B_PB_RST" />
+<area shape="rect" coords="174,76,196,99" href="B_PB_TMR1" />
+<area shape="rect" coords="213,76,235,99" href="B_PB_RC1" />
+<area shape="rect" coords="90,84,97,99" href="B_DP_CH0" />
+<area shape="rect" coords="80,84,87,99" href="B_DP_CH1" />
+<area shape="rect" coords="70,84,77,99" href="B_DP_CH2" />
+<area shape="rect" coords="60,84,67,99" href="B_DP_CH3" />
+<area shape="rect" coords="50,84,57,99" href="B_DP_CH4" />
+<area shape="rect" coords="40,84,47,99" href="B_DP_CH5" />
+<area shape="rect" coords="30,84,37,99" href="B_DP_CH6" />
+<area shape="rect" coords="20,84,27,99" href="B_DP_CH7" />
+<area shape="rect" coords="60,247,67,262" href="B_DP_PGC" />
+<area shape="rect" coords="50,247,57,262" href="B_DP_PGD" />
+<area shape="rect" coords="40,247,47,262" href="B_DP_5V" />
+<area shape="rect" coords="30,247,37,262" href="B_DP_VPP" />
+<area shape="rect" coords="325,243,372,315" href="O_SS_1" />
+<area shape="rect" coords="378,243,425,315" href="O_SS_2" />
+<area shape="rect" coords="431,243,478,315" href="O_SS_3" />
+<area shape="rect" coords="484,243,531,315" href="O_SS_4" />
+<area shape="rect" coords="339,248,358,254" href="O_SS_A1" />
+<area shape="rect" coords="358,250,364,277" href="O_SS_B1" />
+<area shape="rect" coords="358,278,364,304" href="O_SS_C1" />
+<area shape="rect" coords="338,300,358,306" href="O_SS_D1" />
+<area shape="rect" coords="332,277,338,304" href="O_SS_E1" />
+<area shape="rect" coords="332,251,338,276" href="O_SS_F1" />
+<area shape="rect" coords="339,274,358,280" href="O_SS_G1" />
+<area shape="circle" coords="367,307,3" href="O_SS_P1" />
+<area shape="rect" coords="392,248,411,254" href="O_SS_A2" />
+<area shape="rect" coords="412,250,418,276" href="O_SS_B2" />
+<area shape="rect" coords="412,278,418,304" href="O_SS_C2" />
+<area shape="rect" coords="392,300,411,306" href="O_SS_D2" />
+<area shape="rect" coords="385,278,391,303" href="O_SS_E2" />
+<area shape="rect" coords="385,251,391,277" href="O_SS_F2" />
+<area shape="rect" coords="392,274,412,280" href="O_SS_G2" />
+<area shape="circle" coords="420,307,3" href="O_SS_P2" />
+<area shape="rect" coords="445,248,465,254" href="O_SS_A3" />
+<area shape="rect" coords="465,251,471,277" href="O_SS_B3" />
+<area shape="rect" coords="465,277,471,304" href="O_SS_C3" />
+<area shape="rect" coords="445,300,465,307" href="O_SS_D3" />
+<area shape="rect" coords="439,277,445,304" href="O_SS_E3" />
+<area shape="rect" coords="439,251,445,276" href="O_SS_F3" />
+<area shape="rect" coords="445,274,465,280" href="O_SS_G3" />
+<area shape="circle" coords="474,306,3" href="O_SS_P3" />
+<area shape="rect" coords="498,248,518,254" href="O_SS_A4" />
+<area shape="rect" coords="519,251,525,276" href="O_SS_B4" />
+<area shape="rect" coords="519,277,525,304" href="O_SS_C4" />
+<area shape="rect" coords="499,300,518,306" href="O_SS_D4" />
+<area shape="rect" coords="492,278,498,304" href="O_SS_E4" />
+<area shape="rect" coords="492,250,498,276" href="O_SS_F4" />
+<area shape="rect" coords="498,273,519,280" href="O_SS_G4" />
+<area shape="circle" coords="527,307,3" href="O_SS_P4" />
+<area shape="rect" coords="248,374,321,433" href="O_RL1" />
+<area shape="rect" coords="324,374,398,433" href="O_RL2" />
+<area shape="rect" coords="401,374,475,433" href="O_RL3" />
+<area shape="rect" coords="478,374,552,433" href="O_RL4" />
+</map>
